@@ -45,7 +45,7 @@ def main():
     'TP',
     '/unlock',
     'starwars',
-    # This may fail sometimes, not sure why
+    # This may fail sometimes, not sure why. Versions?
     #'/plaintext'
   ]
 
